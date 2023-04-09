@@ -27,7 +27,7 @@ function App() {
     setName("");
   };
 
-  }
+  
 
   return (
     <main>
