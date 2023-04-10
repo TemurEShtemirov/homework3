@@ -125,7 +125,15 @@ function App() {
               return (
                 <tr>
                   <td>
-                    <i class="fa-solid fa-address-book"></i>
+                    <img
+                      width="50px"
+                      height="50px"
+                      style={{
+                        borderRadius: "50px",
+                      }}
+                      src="https://e7.pngegg.com/pngimages/447/446/png-clipart-elon-musk-tesla-motors-tesla-model-3-spacex-tesla-company-car.png"
+                      alt="Img"
+                    />
                   </td>
                   <td>{item.name}</td>
                   <td>{item.email}</td>
